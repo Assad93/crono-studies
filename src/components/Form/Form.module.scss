@@ -1,0 +1,29 @@
+.formContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+
+  > div {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+    > label {
+      font-size: 36px;
+      font-weight: bold;
+      color: #3a4f5f;
+    }
+
+    > input {
+      height: 48px;
+      width: 400px;
+      border: 2px solid #3a4f5f;
+      border-radius: 8px;
+      outline: 0;
+      color: #3a4f5f;
+      padding: 10px;
+      font-size: 28px;
+    }
+  }
+}

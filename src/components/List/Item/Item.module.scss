@@ -1,0 +1,31 @@
+.item {
+  padding: 20px;
+  background: #95afc0;
+  margin-top: 20px;
+  border-radius: 8px;
+  border: 2px solid #3a4f5f;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  div h3 {
+    font-size: 36px;
+    font-weight: bold;
+    color: #fff;
+    margin-bottom: 10px;
+  }
+
+  div span {
+    font-size: 24px;
+    color: #fff;
+    font-weight: bold;
+  }
+}
+
+.itemSelecionado {
+  background: #3a4f5f;
+}
+
+.itemCompletado {
+  background: #00b894;
+}

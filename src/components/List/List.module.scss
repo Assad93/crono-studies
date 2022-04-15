@@ -1,0 +1,22 @@
+.listContainer {
+  flex: 2;
+  height: 90%;
+}
+
+.board {
+  height: 100%;
+  width: 90%;
+  border-radius: 8px;
+  flex: 2;
+  background-color: #fff;
+  padding: 10px;
+  overflow-y: scroll;
+
+  > h2 {
+    padding: 20px 0px 0px;
+    font-size: 52px;
+    font-weight: bold;
+    color: #3a4f5f;
+    text-decoration: underline;
+  }
+}
