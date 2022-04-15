@@ -9,7 +9,7 @@ interface ItemProps {
 }
 
 const Item: React.FC<ItemProps> = ({ materia }) => {
-  const { materias, setMaterias, materiaSelecionada, setMateriaSelecionada } =
+  const { materias, setMaterias, setMateriaSelecionada } =
     useContext(MateriaContext);
 
   const selecionarMateria = () => {
