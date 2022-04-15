@@ -1,46 +1,45 @@
-# Getting Started with Create React App
+# Crono Studies
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![GitHub repo size](https://img.shields.io/github/repo-size/Assad93/crono-studies?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/Assad93/crono-studies?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/Assad93/crono-studies?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Assad93/crono-studies?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/Assad93/crono-studies?style=for-the-badge)
 
-## Available Scripts
+<img src="./public/images/crono-studies.png" alt="Tela principal do Crono Studies">
 
-In the project directory, you can run:
+> Crono Studies é uma aplicação que permite o usuário cadastrar matérias de seu interesse e cronometrar o tempo de estudo. 
 
-### `npm start`
+## Site em produção
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Quem sabe faz ao vivo meu!
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+[Crono Studies](https://crono-studies.netlify.app/)
 
-### `npm test`
+## 💻 Pré-requisitos
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-### `npm run build`
+- Você possui o `Node Js` instalado em sua máquina?
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🚀 Instalando Crono Studies
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Para instalar o Crono Studies, siga estas etapas:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Abra o terminal e navegue até a pasta do projeto e, depois:
 
-### `npm run eject`
+```
+npm install
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## ☕ Usando Crono Studies
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Para usar Crono Studies, siga estas etapas:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Na raiz do projeto, execute no terminal:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+```
+npm run start
+```
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Fique à vontade para contribuir!
